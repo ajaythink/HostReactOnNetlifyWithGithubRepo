@@ -1,0 +1,1 @@
+Here I will use for write all the procedure how I have deploy github repo on netlify. 
